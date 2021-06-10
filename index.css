@@ -1,0 +1,72 @@
+/*font-family: 'Gafata', sans-serif;
+font-family: 'Nova Square', cursive;*/
+body{
+     background-image: url(./assets/fruit.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav>ul>li{
+    margin-right: 20px;
+    text-decoration: none;
+    list-style: none;
+    padding: 18px;
+}
+
+
+#nav p{
+    padding: 18px;
+}
+   
+    
+    
+    
+    
+
+
+#about{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+#product{
+background-color: burlywood;
+display: flex;
+
+    
+}
+#product{
+    display: flex;
+}
+
+
+#product div{
+    padding: 10px 20px 10px 20px;
+    margin: 0 5px 0 5px;
+    text-align: center;
+    background-color: cornflowerblue;
+    opacity: 0.9;
+
+}
+#product>div{
+    background: burlywood;
+    opacity: 0.9;
+}
+footer{
+    background-color: burlywood;
+    
+
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+
